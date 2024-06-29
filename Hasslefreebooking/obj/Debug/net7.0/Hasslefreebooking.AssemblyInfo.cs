@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hasslefreebooking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95450986d2a8d8b9e924ffe9d39f70d74386c4a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hasslefreebooking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hasslefreebooking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

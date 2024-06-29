@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roja.gudavalli\\Desktop\\New folder (4)\\Hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj": {}
+    "C:\\Users\\krishnavamsi.nalluri\\Backendbooking\\hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roja.gudavalli\\Desktop\\New folder (4)\\Hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj": {
+    "C:\\Users\\krishnavamsi.nalluri\\Backendbooking\\hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roja.gudavalli\\Desktop\\New folder (4)\\Hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj",
+        "projectUniqueName": "C:\\Users\\krishnavamsi.nalluri\\Backendbooking\\hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj",
         "projectName": "Hasslefreebooking",
-        "projectPath": "C:\\Users\\roja.gudavalli\\Desktop\\New folder (4)\\Hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj",
-        "packagesPath": "C:\\Users\\roja.gudavalli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roja.gudavalli\\Desktop\\New folder (4)\\Hasslefreebooking\\Hasslefreebooking\\obj\\",
+        "projectPath": "C:\\Users\\krishnavamsi.nalluri\\Backendbooking\\hasslefreebooking\\Hasslefreebooking\\Hasslefreebooking.csproj",
+        "packagesPath": "C:\\Users\\krishnavamsi.nalluri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\krishnavamsi.nalluri\\Backendbooking\\hasslefreebooking\\Hasslefreebooking\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roja.gudavalli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\krishnavamsi.nalluri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
